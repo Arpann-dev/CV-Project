@@ -3,7 +3,7 @@
 A computer vision project that extracts text from image-based documents using an OpenCV preprocessing pipeline and EasyOCR's deep learning backend (CRAFT + CRNN), served through a Streamlit web interface.
 
 ---
-
+LIVE DEMO: https://document-text-extractor.streamlit.app/
 ## How It Works
 
 **Stage 1 — CV Preprocessing (OpenCV)**
